@@ -10,8 +10,8 @@ My passion for **programming, electronics, and robotics** led me to complete a *
     Studying concepts related to artificial intelligence, advanced programming, advanced control, computer vision, robotics, home automation, among others. Grade: 8.3/10, still working on my final thesis.
 - **Bachelor's Degree in Industrial Technologies Engineering** - University of Málaga (2018 - 2022)
     General degree covering a broad range of concepts in engineering, physics, and mathematics. Specialized in electronics and automation (FPGA, VHDL, ROS, Python, AI). Grade: 8/10 with honors in my final thesis.
-  
-  ---
+
+---
 
 ## 👨‍💻 Technical Skills
 - **Programming Languages**: Python, C++, C, MATLAB  
